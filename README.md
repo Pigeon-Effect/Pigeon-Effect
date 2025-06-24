@@ -3,7 +3,6 @@
 
 > 
 **Political Data Scientist** *"On a mission to complicate 'the good vs. evil' narrative – exploring power beyond binaries in international politics"*
-Leipzig, Germany | [julius.pfundstein@gmail.com](mailto:julius.pfundstein@gmail.com)  
 
 
 ### Research Interests  

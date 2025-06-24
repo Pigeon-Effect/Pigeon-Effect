@@ -1,6 +1,8 @@
 # Hi there, time to complicate things..
 
-**Political Technologist** exploring power dynamics beyond moral binaries  
+
+> 
+**Political Data Scientist** *"On a mission to complicate 'the good vs. evil' narrative – exploring power beyond binaries in international politics"*
 Leipzig, Germany | [julius.pfundstein@gmail.com](mailto:julius.pfundstein@gmail.com)  
 
 
@@ -11,7 +13,7 @@ Leipzig, Germany | [julius.pfundstein@gmail.com](mailto:julius.pfundstein@gmail.
 - Data-driven conflict analysis  
 - NLP for political discourse  
 
-### 🛠️ Tech & Methods  
+### Tech & Methods  
 `Python` `JavaScript` `Web Scraping` `Network Analysis` `Geospatial Viz` `NLP` `D3.js` `React` `Gephi`  
 
 
@@ -26,4 +28,4 @@ NLP-driven study of linguistic characteristics in General Debates using Python/N
 Comparative network analysis of Twitter/Weibo debates using Gephi  
 
 
-> *"On a mission to complicate 'the good vs. evil' narrative – exploring power beyond binaries in international politics"*
+

@@ -17,14 +17,14 @@
 
 
 ### Featured Projects  
-[**UNGA Voting Alliance Explorer**](Here)  
-Interactive visualization of voting patterns (1946-2022) with network analysis and coincidence mapping  
+[**Mapping-UNGA-Voting-Alliances**]([Here](https://github.com/Pigeon-Effect/Mapping-UNGA-Voting-Alliances))  
+Interactive visualization of voting patterns (1946-2022) with world map, multi-factor analysis and network graph. 
 
-[**UN Speech Evolution Analysis**](Here)  
-NLP-driven study of linguistic characteristics in General Debates using Python/NLTK  
+[**UNGD-linguistic-patterns**]([Here](https://github.com/Pigeon-Effect/UNGD-linguistic-patterns))  
+NLP-driven study of the linguistic evolution in United Nations General Debates using Python/NLTK.
 
-[**Cross-Platform Climate Discourse**](Here)  
-Comparative network analysis of Twitter/Weibo debates using Gephi  
+[**Forced-Migration-Visualization**]([Here](https://github.com/Pigeon-Effect/Forced-Migration-Visualization))  
+Construction and Visualization of a dataset of forced secondary migration between 1950 and 2025.
 
 
 

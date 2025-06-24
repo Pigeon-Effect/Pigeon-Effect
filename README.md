@@ -17,7 +17,7 @@
 
 
 ### Featured Projects  
-[**Mapping-UNGA-Voting-Alliances**]([Here](https://github.com/Pigeon-Effect/Mapping-UNGA-Voting-Alliances))  
+[**Mapping-UNGA-Voting-Alliances**][Here](https://github.com/Pigeon-Effect/Mapping-UNGA-Voting-Alliances)
 Interactive visualization of voting patterns (1946-2022) with world map, multi-factor analysis and network graph. 
 
 [**UNGD-linguistic-patterns**]([Here](https://github.com/Pigeon-Effect/UNGD-linguistic-patterns))  

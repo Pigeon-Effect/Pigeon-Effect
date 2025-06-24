@@ -2,7 +2,7 @@
 
 
 > 
-**Political Data Scientist** *"On a mission to complicate 'the good vs. evil' narrative – exploring power beyond binaries in international politics"*
+**Political Data Scientist** *"On a mission to complicate 'the good vs. evil' – exploring power politics beyond moral binaries"*
 
 
 ### Research Interests  
